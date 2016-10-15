@@ -20,3 +20,7 @@ Odgovor na pitanje 4:
   
 Odgovor na pitanje 5:
   Više mu nije potrebna PeroClassLibrary.dll negdje na disku jer si je kreirao vlastitu u folderu bin debag i metapodatci štimaju
+
+Odgovor na pitanje 6:
+  restoring packagees u build procesu
+  ponovno se stvori NodaTime file u packages filu unutar solution file explorera 
